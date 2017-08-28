@@ -7,7 +7,7 @@
 ```
 solutions = [
   {
-    "url": "https://github.com/vsberm/gn_example.git",
+    "url": "https://github.com/vsberm/gn_chromium.git",
     "managed": False,
     "name": "src",
     "deps_file": "DEPS",
