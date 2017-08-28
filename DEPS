@@ -6,6 +6,7 @@ deps = {
   "src/build_overrides" : "https://chromium.googlesource.com/chromium/src/build_overrides",
   "src/buildtools" : "https://chromium.googlesource.com/chromium/buildtools",
   "src/buildtools/third_party/libc++/trunk" : "https://chromium.googlesource.com/chromium/llvm-project/libcxx",
+  "src/buildtools/third_party/libc++abi/trunk" : "https://chromium.googlesource.com/chromium/llvm-project/libcxxabi",
   "src/tools/gyp" : "https://chromium.googlesource.com/external/gyp",
   "src/tools/clang" : "https://chromium.googlesource.com/chromium/src/tools/clang",
   "src/third_party/binutils" : "https://chromium.googlesource.com/chromium/src/third_party/binutils",
