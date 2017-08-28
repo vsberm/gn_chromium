@@ -1,0 +1,16 @@
+
+static_library("exp") {
+  sources = [
+    "exp.h",
+    "exp.c",
+  ]
+}
+
+executable("gn_example") {
+  sources = [
+    "main.c",
+  ]
+  deps = [
+    ":exp",
+  ]
+}
