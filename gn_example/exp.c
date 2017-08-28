@@ -6,5 +6,5 @@
 
 void printInfo()
 {
-    printf("this is gn example");
+    printf("this is gn example \n");
 }
